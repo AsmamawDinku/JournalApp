@@ -1,0 +1,14 @@
+C:\Users\herod\OneDrive\Desktop\JournalApp\bin\Debug\net8.0\JournalApp.exe
+C:\Users\herod\OneDrive\Desktop\JournalApp\bin\Debug\net8.0\JournalApp.deps.json
+C:\Users\herod\OneDrive\Desktop\JournalApp\bin\Debug\net8.0\JournalApp.runtimeconfig.json
+C:\Users\herod\OneDrive\Desktop\JournalApp\bin\Debug\net8.0\JournalApp.dll
+C:\Users\herod\OneDrive\Desktop\JournalApp\bin\Debug\net8.0\JournalApp.pdb
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.AssemblyInfoInputs.cache
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.AssemblyInfo.cs
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.csproj.CoreCompileInputs.cache
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.dll
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\refint\JournalApp.dll
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.pdb
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.genruntimeconfig.cache
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\ref\JournalApp.dll
