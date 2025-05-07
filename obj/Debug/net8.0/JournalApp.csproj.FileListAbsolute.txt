@@ -12,3 +12,4 @@ C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\refint\JournalApp.dl
 C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.pdb
 C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.genruntimeconfig.cache
 C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\ref\JournalApp.dll
+C:\Users\herod\OneDrive\Desktop\JournalApp\obj\Debug\net8.0\JournalApp.sourcelink.json
